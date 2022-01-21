@@ -1,0 +1,3 @@
+# Recyclerview的简单使用
+后续添加retrofit与BaseQuickAdapter使用
+使用场景类似于B站的推荐页面向下滑动刷新。
